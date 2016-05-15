@@ -1,6 +1,6 @@
-This is i386 modified version of w3m 0.5.3-patched from MacPorts. This version can only dump html files to plain text.
+This is modified version of [w3m](http://w3m.sourceforge.net/) 0.5.3-patched from MacPorts. This version can only dump html files to plain text.
 
-Works on OS X 10.5 or later (including 10.11).
+Project is created in Xcode v3.2.6 (Mac OS X 10.6). Release is i386 and works on OS X 10.5 or later (including 10.11).
 
 ```
 $ w3m --help
